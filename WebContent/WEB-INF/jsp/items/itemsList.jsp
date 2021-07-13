@@ -10,7 +10,7 @@
 <body>
 	<center>
 		商品数据展示
-		<table width="100%" height="350px" border="2" bordercolor="yellow">
+		<table width="100%" height="350px" border="2" bordercolor="blue">
 			<tr>
 				<th>编号</th>
 				<th>名称</th>
